@@ -1,0 +1,9 @@
+﻿<Page x:Class="Click_Snup.CatalogPage"
+      xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+      xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+      Title="Каталог">
+    <Grid Background="#FFF5E1">
+        <TextBlock Text="Каталог товаров" HorizontalAlignment="Center" VerticalAlignment="Center" FontSize="24"/>
+
+    </Grid>
+</Page>

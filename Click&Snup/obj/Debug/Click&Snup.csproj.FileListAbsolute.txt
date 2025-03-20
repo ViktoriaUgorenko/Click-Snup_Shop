@@ -60,3 +60,40 @@ D:\БГТУ\курсовой ооп\Click&Snup\Click&Snup\obj\Debug\Click&Snup.c
 D:\БГТУ\курсовой ооп\Click&Snup\Click&Snup\obj\Debug\Click&Snup.csproj.CopyComplete
 D:\БГТУ\курсовой ооп\Click&Snup\Click&Snup\obj\Debug\Click&Snup.exe
 D:\БГТУ\курсовой ооп\Click&Snup\Click&Snup\obj\Debug\Click&Snup.pdb
+D:\БГТУ\Click&Snup\Click&Snup\Click&Snup\bin\Debug\Click&Snup.exe.config
+D:\БГТУ\Click&Snup\Click&Snup\Click&Snup\bin\Debug\Click&Snup.exe
+D:\БГТУ\Click&Snup\Click&Snup\Click&Snup\bin\Debug\Click&Snup.pdb
+D:\БГТУ\Click&Snup\Click&Snup\Click&Snup\bin\Debug\SharpVectors.Converters.Wpf.dll
+D:\БГТУ\Click&Snup\Click&Snup\Click&Snup\bin\Debug\SharpVectors.Core.dll
+D:\БГТУ\Click&Snup\Click&Snup\Click&Snup\bin\Debug\SharpVectors.Css.dll
+D:\БГТУ\Click&Snup\Click&Snup\Click&Snup\bin\Debug\SharpVectors.Dom.dll
+D:\БГТУ\Click&Snup\Click&Snup\Click&Snup\bin\Debug\SharpVectors.Model.dll
+D:\БГТУ\Click&Snup\Click&Snup\Click&Snup\bin\Debug\SharpVectors.Rendering.Wpf.dll
+D:\БГТУ\Click&Snup\Click&Snup\Click&Snup\bin\Debug\SharpVectors.Runtime.Wpf.dll
+D:\БГТУ\Click&Snup\Click&Snup\Click&Snup\bin\Debug\SharpVectors.Converters.Wpf.xml
+D:\БГТУ\Click&Snup\Click&Snup\Click&Snup\bin\Debug\SharpVectors.Core.xml
+D:\БГТУ\Click&Snup\Click&Snup\Click&Snup\bin\Debug\SharpVectors.Css.xml
+D:\БГТУ\Click&Snup\Click&Snup\Click&Snup\bin\Debug\SharpVectors.Dom.xml
+D:\БГТУ\Click&Snup\Click&Snup\Click&Snup\bin\Debug\SharpVectors.Model.xml
+D:\БГТУ\Click&Snup\Click&Snup\Click&Snup\bin\Debug\SharpVectors.Rendering.Wpf.xml
+D:\БГТУ\Click&Snup\Click&Snup\Click&Snup\bin\Debug\SharpVectors.Runtime.Wpf.xml
+D:\БГТУ\Click&Snup\Click&Snup\Click&Snup\obj\Debug\Click&Snup.csproj.AssemblyReference.cache
+D:\БГТУ\Click&Snup\Click&Snup\Click&Snup\obj\Debug\MainWindow.g.cs
+D:\БГТУ\Click&Snup\Click&Snup\Click&Snup\obj\Debug\App.g.cs
+D:\БГТУ\Click&Snup\Click&Snup\Click&Snup\obj\Debug\Click&Snup_Content.g.cs
+D:\БГТУ\Click&Snup\Click&Snup\Click&Snup\obj\Debug\Click&Snup_MarkupCompile.cache
+D:\БГТУ\Click&Snup\Click&Snup\Click&Snup\obj\Debug\Click&Snup_MarkupCompile.lref
+D:\БГТУ\Click&Snup\Click&Snup\Click&Snup\obj\Debug\MainWindow.baml
+D:\БГТУ\Click&Snup\Click&Snup\Click&Snup\obj\Debug\Click&Snup.g.resources
+D:\БГТУ\Click&Snup\Click&Snup\Click&Snup\obj\Debug\Click_Snup.Properties.Resources.resources
+D:\БГТУ\Click&Snup\Click&Snup\Click&Snup\obj\Debug\Click&Snup.csproj.GenerateResource.cache
+D:\БГТУ\Click&Snup\Click&Snup\Click&Snup\obj\Debug\Click&Snup.csproj.CoreCompileInputs.cache
+D:\БГТУ\Click&Snup\Click&Snup\Click&Snup\obj\Debug\Click&Snup.csproj.CopyComplete
+D:\БГТУ\Click&Snup\Click&Snup\Click&Snup\obj\Debug\Click&Snup.exe
+D:\БГТУ\Click&Snup\Click&Snup\Click&Snup\obj\Debug\Click&Snup.pdb
+D:\БГТУ\Click&Snup\Click&Snup\Click&Snup\obj\Debug\CatalogPage.baml
+D:\БГТУ\Click&Snup\Click&Snup\Click&Snup\obj\Debug\CatalogPage.g.cs
+D:\БГТУ\Click&Snup\Click&Snup\Click&Snup\obj\Debug\LoginWindow.g.cs
+D:\БГТУ\Click&Snup\Click&Snup\Click&Snup\obj\Debug\LoginWindow.baml
+D:\БГТУ\Click&Snup\Click&Snup\Click&Snup\obj\Debug\RegistrtationWindow.baml
+D:\БГТУ\Click&Snup\Click&Snup\Click&Snup\obj\Debug\RegistrtationWindow.g.cs

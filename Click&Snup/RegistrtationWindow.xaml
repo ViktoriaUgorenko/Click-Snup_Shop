@@ -1,0 +1,33 @@
+﻿<Window x:Class="Click_Snup.RegistrationWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="Registration" Height="350" Width="525">
+    <Grid>
+        <!-- Поле для ввода имени пользователя с подсказкой -->
+        <Grid Name="usernameContainer" Margin="150,50,150,0" VerticalAlignment="Top" HorizontalAlignment="Center">
+            <TextBox Name="txtUsername" Width="200" Height="30" VerticalAlignment="Top" />
+            <TextBlock Text="Введите ваше имя пользователя" VerticalAlignment="Center" HorizontalAlignment="Left" Foreground="Gray" Margin="5,0,0,0" 
+                       IsHitTestVisible="False" Visibility="Visible" Name="UsernamePlaceholder"/>
+        </Grid>
+
+        <!-- Поле для ввода почты (логина) с подсказкой -->
+        <Grid Name="emailContainer" Margin="150,100,150,0" VerticalAlignment="Top" HorizontalAlignment="Center">
+            <TextBox Name="txtEmail" Width="200" Height="30" VerticalAlignment="Top" />
+            <TextBlock Text="Введите вашу почту (логин)" VerticalAlignment="Center" HorizontalAlignment="Left" Foreground="Gray" Margin="5,0,0,0" 
+                       IsHitTestVisible="False" Visibility="Visible" Name="EmailPlaceholder"/>
+        </Grid>
+
+        <!-- Поле для ввода пароля с подсказкой -->
+        <Grid Name="passwordContainer" Margin="150,150,150,0" VerticalAlignment="Top" HorizontalAlignment="Center">
+            <PasswordBox Name="txtPassword" Width="200" Height="30" VerticalAlignment="Top" />
+            <TextBlock Text="Введите ваш пароль" VerticalAlignment="Center" HorizontalAlignment="Left" Foreground="Gray" Margin="5,0,0,0" 
+                       IsHitTestVisible="False" Visibility="Visible" Name="PasswordPlaceholder"/>
+        </Grid>
+
+        <!-- Кнопка для регистрации -->
+        <Button Content="Зарегистрироваться" Width="200" Height="30" Margin="150,200,150,0" VerticalAlignment="Top" HorizontalAlignment="Center" Click="Register_Click"/>
+
+        <!-- Кнопка для перехода на окно входа -->
+        <Button Content="Уже есть аккаунт? Войти" Width="200" Height="30" Margin="150,250,150,0" VerticalAlignment="Top" HorizontalAlignment="Center" Click="GoToLogin_Click"/>
+    </Grid>
+</Window>

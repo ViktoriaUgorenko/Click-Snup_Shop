@@ -13,5 +13,13 @@ namespace Click_Snup
     /// </summary>
     public partial class App : Application
     {
+        protected override void OnStartup(StartupEventArgs e)
+        {
+            base.OnStartup(e);
+
+            // Инициализация базы данных
+            UserDatabaseService dbService = new UserDatabaseService();
+            dbService.InitializeDatabase();  // Проверяет и создает базу данных, если она не существует
+        }
     }
 }
